@@ -1,7 +1,7 @@
-Which wards in (Ezinihitte Mbaise LGA) are more than 5 km from heath facility?
+Which wards in (Ezinihitte Mbaise LGA) are more than 2 km from heath facility?
 
 
-1. Wards more than 5 km from a health facility may have limited access to healthcare services.
+1. Wards more than 2 km from a health facility may have limited access to healthcare services.
 2. Identifying these wards helps locate underserved communities.
 3. This supports better planning and equitable healthcare delivery.
 
@@ -27,6 +27,7 @@ https://data.grid3.org/datasets/GRID3::grid3-nga-settlement-extents-v4-1/about
 
 I will build a GIS map showing the wards in Ezinihitte Mbaise LGA and the locations of health facilities.
 
-I will use a 5-km buffer around health facilities to identify wards that are beyond the recommended distance.
+I will use a 2-km buffer around health facilities to identify wards that are beyond the recommended distance.
 
 The final map will highlight underserved wards to support better healthcare planning and accessibility.
+
