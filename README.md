@@ -8,7 +8,7 @@ This project uses GIS to map and assess healthcare accessibility in Ezinihitte M
 - [Week 4: month-1-summary](Month1-summary.md)
 
 ## Study Area Map
-[Ezinihitte Ward Boundaries](img/MAP-OF-EZINIHITTE-HEALTH-FACILITIES.png)
+![Ezinihitte Ward Boundaries](img/MAP-OF-EZINIHITTE-HEALTH-FACILITIES.png)
 
 ## Month 2: Development environment and early python
 - Week 5: Set up PYTHON, VS Code and the terminal. `hello.py` runs
